@@ -7,7 +7,7 @@ Dokumen ini dibuat sebagai panduan jalannya sistem
     | -------------- | --------- | ------------------ |
     | id             | ObjectId  | user ID            |
     | full_name      | string    | users' full name   |
-    | username       | string    | users' full name   |
+    | username       | string    | users' username    |
     | email          | string    | users' email       |
     | password       | string    | users' password    |
     | status         | string    | users' status      |
